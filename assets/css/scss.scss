@@ -1,0 +1,14 @@
+
+$font-stack:    'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+$font-style: italic;
+  
+body {
+    p, table, h1 {
+        font-style: $font-style;
+        font-family: $font-stack;
+    }   
+}
+
+h1 {
+    font-style: italic;
+}
