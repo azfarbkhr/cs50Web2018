@@ -1,0 +1,12 @@
+#full-name {
+    font-weight: bold;
+}
+
+#content {
+    margin: 1%;    
+}
+
+#profile-picture-container {
+    border: 5px;
+    border-style: outset;
+}
